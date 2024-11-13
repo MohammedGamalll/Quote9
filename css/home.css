@@ -1,0 +1,21 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 72px !important;
+}
+
+h2,
+p {
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+    width: fit-content;
+}
+
+.btn {
+    transition: all .5s;
+    font-family: 'Times New Roman', Times, serif !important;
+    
+}
+
+.btn:hover {
+    background-color: #f1f1f1 !important;
+}
